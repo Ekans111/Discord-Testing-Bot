@@ -1,0 +1,28 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "This is the discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekans111/Discord-Testing-Bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Ekans111",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekans111/Discord-Testing-Bot/issues"
+  },
+  "homepage": "https://github.com/Ekans111/Discord-Testing-Bot#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
